@@ -1,0 +1,3 @@
+$(McrTagsYmlRepo:aspire-dashboard)
+$(McrTagsYmlTagGroup:8-amd64)
+$(McrTagsYmlTagGroup:8-arm64v8)
